@@ -1,0 +1,19 @@
+trail.night
+trail.trees missing argument in query
+trees.difficulty is not showing any data
+
+
+remove apolloProvider
+add key in map
+map data is incorrect
+query variables type are messed up
+
+UPDATE_TRAIL_STATUS liftStatus invalid
+nullability errors
+invalid id
+HOLD is invalid value
+
+GET_TRAILS status1 invalid argument
+allTrails name is invalid
+invalid imports
+
